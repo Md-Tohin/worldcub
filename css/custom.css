@@ -220,9 +220,10 @@ body{
     }
     .match{
         height: 100%;
-        width: 64vh;
+        /* width: 64vh; */
         /* width: 100%; */
     }
+
 }
 /* media queire for mobile device style end */
 
